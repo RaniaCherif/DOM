@@ -1,0 +1,11 @@
+.count{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.price{
+    text-align: center;
+    margin-left: 80px;
+}
